@@ -1,0 +1,59 @@
+									README
+##-----------------------------------------------------------------------------##
+# gpsbind-gui version BETA - A graphical front end to GPSBabel and gpx2shp.
+# 
+#
+# http://code.google.com/p/geoconvertor/
+#
+# Created: 14/07/2010
+#
+#---------------------------------Contributor------------------------------------
+# Mario C. Ponciano - a.k.a Razec 
+# mrazec@gmail.com
+##-----------------------------------------------------------------------------##
+
+News: (For news, check CHANGELOG file) and http://code.google.com/p/geoconvertor/
+
+What is this?
+
+The gpsbind-gui a graphical front end to GPSBabel and gpx2shp. It provides connection with GPS Garmin and a simple point and click interface to 
+GPSBabel/GPX2SHP for creating(*.gpx) and converting (*.gpx) to shapefile (*.shp). 
+
+Pre-requisites:
+
+Java:
+- Java Runtime Environment Version 6.0
+
+How to install?
+
+1) Extract gpsbind-gui.zip
+
+2) Click gpsbind-gui.jar
+
+3) Choose one features type (waypoints/routes/tracks)
+
+# Transfer GPX File
+
+-Port: Select Serial/USB Connection
+-GPX file: Select Directory and name file
+-Click green mark (Wait data transfer).
+If worked show a message: "gpxfile created" or an error.
+
+# GPX To SHP
+
+-Shapefile name (gpx-to-shp): filename
+-Click on the button folder yellow and select file(*.gpx).
+-Click green mark (Convertion wait).
+
+
+More Information: http://code.google.com/p/geoconvertor/wiki/
+
+License
+
+This program is free software; you can redistribute it and/or                
+modify it under the terms of the GNU General Public License                  
+as published by the Free Software Foundation; either version 3               
+of the License, or (at your option) any later version.  
+	 
+More Information: http://www.gnu.org/licenses/gpl.txt
+
