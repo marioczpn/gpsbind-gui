@@ -3,7 +3,7 @@ I created a graphical front end to GPSBabel and gpx2shp.
 
 For more information please check: https://github.com/razec/gpsbind-gui/tree/master/doc
 
-* More Information *
+## More Information 
 
 - GPSBabel to transfer data to and from GPS devices and to import (gpx) file written by Robert Lipe. 
 http://www.gpsbabel.org/
